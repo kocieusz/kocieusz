@@ -1,5 +1,8 @@
 Hi there, I'm Jakub 👋
 
+Current Stack:
+`python`, `postgresql`,
+
 🌱 Passionate Data Enthusiast & Automation Architect
 
 Welcome to my GitHub page! I'm deeply fascinated by the world of data and its transformative power in the digital landscape. My journey revolves around exploring the intricacies of data analytics, automation, and database architecture, aiming to unlock new potentials in data-driven decision-making.
