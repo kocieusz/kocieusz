@@ -1,7 +1,7 @@
 Hi there, I'm Jakub 👋
 
-Current Stack:
-`python`, `postgresql`,
+Tools using:
+`python`, `postgresql`, `flask`, `openai-api`, `supabase`, `docker`, `redis`, `elasticsearch`, 
 
 🌱 Passionate Data Enthusiast & Automation Architect
 
